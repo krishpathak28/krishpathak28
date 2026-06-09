@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **krishpathak28/krishpathak28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- Hi, I'm @krishpathak28
+- I'm a rising sophomore studying Computer Science at the USC Viterbi School of Engineering
+- LinkedIn: http://linkedin.com/in/krish-pathak-2a6b9b374
