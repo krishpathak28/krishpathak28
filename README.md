@@ -13,5 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - Hi, I'm @krishpathak28
-- I'm a rising sophomore studying Computer Science at the USC Viterbi School of Engineering
+- I'm a sophomore studying Computer Science at the USC Viterbi School of Engineering
+- Currently interested in AI agents, automated workflows, sporting analytics
+- Industries that intrigue me: infosec, fintech, game dev, applying CS in sports, automotive/aeronautic, healthcare, space
+- Feel free to reach out!
 - LinkedIn: http://linkedin.com/in/krish-pathak-2a6b9b374
